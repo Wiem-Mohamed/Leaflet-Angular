@@ -1,5 +1,5 @@
 # Leaflet-Angular
-An Angular app using Leaflet to display a map with real-time user location and interactive markers. It includes geocoding for searching places and shows distances from the user's location to predefined points of interest.
+An Angular app using Leaflet to display a map with  user location and interactive markers. It includes geocoding for searching places and shows distances from the user's location to predefined points of interest.
 
 # Installation
 # npm i leaflet @types/leaflet
