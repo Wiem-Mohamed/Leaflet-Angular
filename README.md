@@ -9,3 +9,7 @@ An Angular app using Leaflet to display a map with real-time user location and i
 
 # Configuration
 Check the angular.json file
+
+# Demo Image
+
+![DemoImage](https://github.com/user-attachments/assets/c73f04b2-409f-4cf9-94b4-5994cd5be7d1)
